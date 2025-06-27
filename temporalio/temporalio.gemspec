@@ -3,7 +3,7 @@
 require_relative "lib/temporalio/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "temporalio"
+  spec.name = "clara-temporalio"
   spec.version = Temporalio::VERSION
   spec.authors = ["Temporal Technologies Inc", "Clara Home Care Inc"]
   spec.email = ["contact@clarahomecare.com"]
